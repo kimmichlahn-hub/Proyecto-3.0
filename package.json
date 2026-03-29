@@ -1,0 +1,11 @@
+{
+  "name": "tipster-pro",
+  "version": "16.0.0",
+  "description": "Tipster PRO v16 — FIFA filter, Props, Arbitrage, Collapsible Sidebar",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
